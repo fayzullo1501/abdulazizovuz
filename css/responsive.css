@@ -1,0 +1,592 @@
+@media (max-width:1680px){
+	.bt-photographer .bt-innerbannercontent h1{
+		font-size: 44px;
+		line-height: 38px;
+	}
+	.bt-photogallery.bt-mixwidth .bt-album figure{
+		overflow: height;
+		height: 426px;
+	}
+}
+@media (max-width:1600px){
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 403px;}
+	.bt-posttitle h3 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+}
+@media (max-width:1440px){
+	.bt-contactusvone {padding: 150px 70px 30px 30px;}
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 358px;}
+}
+@media (max-width:1366px){
+	.bt-headervthree{padding: 30px 40px 0;}
+	body.bt-homevthree .bt-main {padding: 120px 0 0 20px;}
+	.bt-slidercontent h1 {
+		font-size: 40px;
+		line-height: 40px;
+	}
+
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 338px;}
+	.bt-posts{margin: 0 -7px;}
+	.bt-posts .bt-post {
+		width: 25%;
+		margin: 0 -2px;
+		padding: 0 15px 120px;
+	}
+}
+@media (max-width:1360px){
+	.bt-shareandlikes li + li {padding: 0 0 0 10px;}
+}
+@media (max-width:1280px){
+	.bt-homeslidervseven .bt-slidercontent{width: 100%;}
+	.bt-masonrygallery .bt-masonrygallerygrid{width: 50%;}
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 314px;}
+}
+@media (max-width:1200px){
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 291px;}
+}
+@media (max-width:1199px){
+	.bt-skills {padding: 0 5% 0 0;}
+	.bt-clients {width: 200px;}
+	.bt-packageplanfoot .bt-btn span {
+		padding: 0 20px;
+		font-size: 13px;
+	}
+	.bt-packageplan h2 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.bt-packageplanfoot h3 {
+		margin: 12px 0;
+		font-size: 26px;
+		line-height: 26px;
+	}
+	.bt-packageplanfoot h3 sup {
+		top: -9px;
+		font-size: 12px;
+		line-height: 12px;
+		padding-right: 3px;
+	}
+	.bt-member:nth-child(odd) {margin: 0 0 -30px;}
+	.bt-innerpagebanner{
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-ms-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	.bt-content .bt-aboutus .bt-abouttextbox:before,
+	.bt-content .bt-aboutus .bt-abouttextbox:after{height: 80%;}
+	.bt-post {width: 33.33%;}
+	.bt-address{
+		width: 100%;
+		padding: 0 0 30px;
+	}
+	.bt-innerpagebannerv2 h1 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.bt-contactinfo li address,
+	.bt-contactinfo {
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.bt-postdetail{width: 100%;}
+	.bt-packageplanfoot{padding: 15px;}
+	.bt-innerpagebannerv3 + .bt-main .bt-member.bt-memberdetail {padding: 0 30px;}
+}
+@media (max-width:1080px){
+	body.bt-homevseven .bt-wrapper {padding: 0 0 0 320px;}
+	.bt-headervseven,
+	.bt-headervseven:before{width: 320px;}
+	.bt-slidercontent h1 {
+		font-size: 40px;
+		line-height: 34px;
+	}
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 257px;}
+	.bt-homeslidervseven .bt-slidercontent .bt-description {padding: 20px 0 0;}
+}
+@media (max-width:1050px){
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 249px;}
+}
+@media (max-width:1024px){
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 242px;}
+	.bt-portfoliocontent {padding: 30px 30px 0;}
+}
+@media (max-width:991px){
+	.bt-addnav,
+	.bt-followus,
+	.bt-copyright,
+	.bt-navandcopyright{
+		width: 100%;
+		float: left;
+		text-align: center;
+	}
+	.bt-followus span,
+	.bt-followus ul,
+	.bt-addnav ul li{
+		float: none;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.bt-addnav ul li:last-child{padding-right: 0;}
+	.bt-newsletter{padding: 50px 0;}
+	.bt-sliderfour .bt-imgbox figure{width: 50%;}
+	.bt-masonrygallery .bt-masonrygallerygrid {width: 100%;}
+	.bt-navfilterbale li a {padding: 0 20px 13px 0;}
+	.bt-skills {
+		padding: 0;
+		width: 100%;
+		float: left;
+	}
+	.bt-clients{
+		width: 100%;
+		margin: 0 0 30px;
+	}
+	.bt-packagesplans > div > [class^="col-"],
+	.bt-packagesplans > div > [class*="col-"]{padding:15px;}
+	.bt-content .bt-aboutus .bt-abouttextbox:before,
+	.bt-content .bt-aboutus .bt-abouttextbox:after {display: none;}
+	.bt-member:nth-child(odd) {margin: 0 0 40px;}
+	.bt-content .bt-aboutus .bt-abouttextbox{padding: 0;}
+	.bt-innerpagebannerv2 h1 {
+		font-size: 31px;
+		line-height: 31px;
+	}
+	.bt-post{width: 50%;}
+	.bt-content .bt-locationmap{
+		width: 100%;
+		float: left;
+		height: 500px;
+		position: relative !important;
+	}
+	.bt-contactusvone{
+		width: 100%;
+		float: left;
+		padding: 150px 15px 0 15px;
+	}
+	.bt-photographer .bt-innerbannercontent h1 {
+		font-size: 30px;
+		line-height: 28px;
+	}
+	.bt-postdetail{
+		width: 100%;
+		padding: 0 0 50px;
+	}
+	.bt-postdetail .bt-posttitle h1 {
+		font-size: 35px;
+		line-height: 27px;
+	}
+	.bt-headervfour .bt-navigationarea{
+		width: 100%;
+		float: left;
+		padding: 10px 0 0;
+	}
+	.bt-headervfour .bt-navigationarea ul{
+		width: 100%;
+		float: left;
+		text-align: center;
+	}
+	.bt-headervfour .bt-navigationarea > ul > li {
+		float: none;
+		margin: 0 10px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.bt-headervfour .bt-logo {
+		width: 170px;
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
+	.bt-headerinnerpage .bt-logo{
+		width: 170px;
+		float: none;
+		margin: 0 auto;
+		display: block;
+	}
+	.bt-headerinnerpage .bt-nav,
+	.bt-headerinnerpage .bt-navigationarea,
+	.bt-headerinnerpage .bt-navigationarea ul{
+		width: 100%;
+		float: left;
+	}
+}
+@media (max-width:900px){
+	.bt-contactinfo li address, .bt-contactinfo {
+		font-size: 15px;
+		line-height: 17px;
+	}
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: 207px;}
+	.bt-portfoliovtwo .bt-featuredimg {
+		width: 100%;
+		position: relative;
+		height: 500px !important;
+	}
+	.bt-portfoliocontent {
+		width: 100%;
+		float: left;
+		padding: 0 15px;
+	}
+	.bt-portfoliovtwo {margin: -114px 0 0;}
+	.bt-innerpagebannerv3{
+		width: 100%;
+		margin: -114px 0 0;
+		position: relative;
+	}
+	.bt-innerpagebannerv3 + .bt-main{padding: 0;}
+	.bt-innerpagebannerv3 + .bt-main .bt-member.bt-memberdetail {padding: 0;}
+	.bt-photogalleryfull .bt-album figure img{
+		max-width: none;
+		width: auto;
+		height: 400px;
+	}
+	.bt-innerpagebannerv3 {margin: -114px 0 80px;}
+}
+@media (max-width:800px){
+	.bt-homeslider.bt-backgroundimg .bt-logo{
+		width: 160px;
+		height: 44px;
+		margin: -22px 0 0 -80px;
+	}
+	.bt-abouttextbox h2 {
+		margin: 0;
+		font-size: 30px;
+		font-weight: 600;
+		line-height: 30px;
+	}
+	.bt-photogallery.bt-mixwidth .bt-album figure{height: auto;}
+	.bt-photogallery.bt-mixwidth .bt-album{
+		float: none;
+		margin: 0 -2px;
+		display: inline-block;
+		vertical-align: top;
+		width: 50% !important;
+	}
+	.bt-homesliderveight .bt-titleandinfo {padding: 15px;}
+}
+@media (max-width:768px){
+	.bt-featuredimg figcaption {padding: 10px;}
+}
+@media (max-width:767px){
+	.bt-menu {font-size: 18px;}
+	.bt-nav{padding: 15px;}
+	.bt-headervfour .bt-logo{float: left;}
+	.bt-headervfour .bt-navigationarea{
+		width: auto;
+		float: right;
+	}
+	.bt-headervfour .bt-navigationarea > ul > li{display: none;}
+	.bt-headervfour .bt-navigationarea > ul > li:last-child{display: block;}
+	.bt-navigation .bt-socialicons {padding: 10px 0;}
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--next,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--prev{
+		width: 40px;
+		height: 40px;
+		line-height: 38px;
+	}
+	.bt-aboutus .bt-abouttextbox{margin: 0;}
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--prev{right: 69px;}
+	.pogoSlider--dirTopLeft .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirTopRight .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirBottomLeft .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirBottomRight .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirTopLeft .pogoSlider-dir-btn--prev:before,
+	.pogoSlider--dirTopRight .pogoSlider-dir-btn--prev:before,
+	.pogoSlider--dirBottomLeft .pogoSlider-dir-btn--prev:before,
+	.pogoSlider--dirBottomRight .pogoSlider-dir-btn--prev:before,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--prev:before {line-height: 38px;}
+	.bt-slidercontent h1 {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.bt-categorybox{
+		width: auto;
+		float: none;
+		clear: both;
+		margin: -15px 0;
+		overflow: hidden;
+	}
+	.bt-slidercontent .bt-description {padding: 10px 0;}
+	.bt-slidercontent .bt-description p{
+		font-size: 14px;
+		line-height: 22px;
+		margin: 0;
+	}
+	.bt-categorybox > div[class^="col-"],
+	.bt-categorybox > div[class*="col-"]{padding:15px;}
+	.bt-iconbox {padding: 0 0 50px;}
+	.bt-404content h1 {
+		font-size: 44px;
+		line-height: 38px;
+	}
+	.bt-404content h2 {
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.bt-innerpagebannerv3 + .bt-main{padding: 30px 0;}
+	.bt-innerpagebannerv3{
+		width: 100%;
+		float: left;
+		position: relative;
+		background-size: cover;
+	}
+	.bt-innerpagebannerv3 + .bt-main .bt-member.bt-memberdetail {padding: 0;}
+	.bt-member{display: block;}
+	.bt-membercontent,
+	.bt-member figure{width: 100%;}
+	.bt-member:nth-child(odd) figure{margin:0 0 30px;}
+	.bt-member:nth-child(even) figure{margin:30px 0 0;}
+	.bt-member:nth-child(even) .bt-membercontent,
+	.bt-member:nth-child(odd) .bt-membercontent{padding: 0;}
+	.bt-feature .bt-textbox{
+		padding: 0;
+		width: 100%;
+	}
+	.bt-feature .bt-textbox:first-child{padding: 0 0 30px;}
+	.bt-contactinfo li{
+		width: 100%;
+		padding: 15px 0;
+	}
+	.bt-portfoliotextbox .bt-textbox{
+		padding: 0;
+		width: 100%;
+	}
+	.bt-portfoliotextbox .bt-textbox:first-child{padding: 0 0 30px;}
+	.tg-postthumbnail {width: 130px;}
+	.tg-postthumbnail:before {right: 95px;}
+	.tg-bannerfullwidthslidecount {
+		left: 30px;
+		bottom: 30px;
+	}
+	.tg-postfullslider .bt-slidercontent{
+		width: 100%;
+		padding: 30px 165px 30px 30px;
+	}
+	body.bt-homevsix .bt-aboutus .bt-abouttextbox {width: 100%;}
+	.bt-headerinnerpage .bt-logo{float: left;}
+	.bt-headerinnerpage .bt-nav{
+		width: auto;
+		float: right;
+	}
+	.bt-headerinnerpage .bt-navigationarea{float: right; width: auto;}
+	.bt-headerinnerpage .bt-navigationarea > ul > li{display: none;}
+	.bt-headerinnerpage .bt-navigationarea > ul > li:last-child{display: block;}
+	.bt-slidercontent {
+		bottom: 70px;
+		padding: 0 30px;
+	}
+	.bt-slidescount {bottom: 20px;}
+	.bt-aboutus .bt-abouttextbox {width: 100%;}
+	.bt-homesliderveight .bt-titleandinfo .bt-albumtitle{width: 100%;}
+	.bt-homesliderveight .bt-titleandinfo .bt-shareandlikes{width: 100%;}
+	.bt-headervseven{
+		-webkit-transform: translateX(-330px);
+		-moz-transform: translateX(-330px);
+		-ms-transform: translateX(-330px);
+		-o-transform: translateX(-330px);
+		transform: translateX(-330px);
+	}
+	body.bt-homevseven .bt-wrapper {padding: 0 0 0 0;}
+	.bt-btnheadertoggle{display: block;}
+	.bt-showheader .bt-headervseven{
+		-webkit-transform: translateX(0);
+		-moz-transform: translateX(0);
+		-ms-transform: translateX(0);
+		-o-transform: translateX(0);
+		transform: translateX(0);
+	}
+	body.bt-showheader.bt-homevseven .bt-wrapper {padding: 0 0 0 320px;}
+	body.bt-homevseven .bt-main {padding: 100px 0 0;}
+}
+@media (max-width:720px){
+	.bt-abouttextbox h2 {
+		font-size: 32px;
+		line-height: 35px;
+	}
+	.bt-pageheadcontent h2 {
+		font-size: 38px;
+		line-height: 38px;
+	}
+	.bt-slidernav {
+		padding: 0;
+		width: 100%;
+		position: relative;
+		text-align: center;
+	}
+	.bt-posts{margin: 0 -15px;}
+	.bt-posttitle h3 {
+		font-size: 18px;
+		line-height: 22px;
+	}
+	.bt-contentbox {padding: 50px 0 0;}
+}
+@media (max-width:640px){
+	.bt-menu {
+		text-align: center;
+		padding: 0 0 30px;
+	}
+	.bt-menu li{
+		width: 280px;
+		float: none;
+		margin: 0 0 30px;
+		vertical-align: top;
+		display: inline-block;
+	}
+	.pogoSlider--dirTopLeft .pogoSlider-dir-btn--next,
+	.pogoSlider--dirTopRight .pogoSlider-dir-btn--next,
+	.pogoSlider--dirBottomLeft .pogoSlider-dir-btn--next,
+	.pogoSlider--dirBottomRight .pogoSlider-dir-btn--next,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--next,
+	.pogoSlider--dirTopLeft .pogoSlider-dir-btn--prev,
+	.pogoSlider--dirTopRight .pogoSlider-dir-btn--prev,
+	.pogoSlider--dirBottomLeft .pogoSlider-dir-btn--prev,
+	.pogoSlider--dirBottomRight .pogoSlider-dir-btn--prev,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--prev{bottom: 30px;}
+	.bt-pageheadcontent{padding: 0;}
+	.bt-counters{margin: -15px 0;}
+	.bt-counter{
+		width: 50%;
+		padding: 15px 0;
+	}
+	.bt-clientinfo li + li {padding: 0 0 0 80px;}
+}
+@media (max-width:568px){
+	.bt-pageheadcontent h2 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.bt-categoryposttitle h3 {
+		font-size: 22px;
+		line-height: 25px;
+	}
+	.bt-abouttextbox h2 {
+		font-size: 23px;
+		line-height: 28px;
+	}
+	.bt-404content h1 {
+		font-size: 22px;
+		margin: 0 0 30px;
+		line-height: 18px;
+	}
+	.bt-innerpagebanner h1 {
+		font-size: 34px;
+		line-height: 28px;
+	}
+	.bt-content .bt-aboutus .bt-abouttextbox h2 {
+		font-size: 35px;
+		line-height: 30px;
+	}
+	.bt-addnav ul li{padding: 0 10px;}
+	.bt-instagramgallery ul li{width: 100%;}
+	.bt-instagramgallery ul li:nth-child(4),
+	.bt-instagramgallery ul li:nth-child(3),
+	.bt-instagramgallery ul li:first-child{margin: 0;}
+	.bt-posts .bt-post{
+		width: 100%;
+		padding: 15px;
+	}
+	.bt-photographergallery > div[class^="col-"],
+	.bt-photographergallery > div[class*="col-"]{
+		padding: 0;
+		width: 100%;
+	}
+	.bt-portfoliovthree > .bt-featuredimg > img,
+	.bt-portfoliovfour > .bt-featuredimg > img,
+	.bt-portfoliovfive.bt-portfolioslider .item img {
+		max-width: none;
+		width: auto;
+		height: 400px;
+	}
+	.bt-portfoliotextbox h2 {
+		font-size: 22px;
+		line-height: 22px;
+	}
+	.bt-clientinfo li + li {padding: 0 0 0 30px;}
+	.bt-categorynameandtext h3 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.bt-categorynameandtext .bt-description {padding: 0 15px;}
+	.tg-postthumbnail {width: 80px;}
+	.tg-postfullslider .bt-slidercontent {padding: 30px 80px 30px 30px;}
+	.tg-postthumbnail:before {right: 45px;}
+	.bt-slidercontent {bottom: 40px;}
+	.bt-slidercontent h1 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.bt-pagehead h2 {
+		margin: 0 0 10px;
+		font-size: 30px;
+		font-weight: 600;
+		line-height: 30px;
+	}
+	.bt-postdetail .bt-posttitle h1 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.bt-pagehead .bt-description p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.bg-gallery {padding: 65px 0;}
+	.bt-innerpagebanner h1 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+}
+@media (max-width:480px){
+	.bt-content .bt-aboutus .bt-abouttextbox{
+		margin: 0;
+		width: 100%;
+		float: left;
+	}
+	.bt-content .bt-aboutus .bt-abouttextbox h2 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.bt-counter{width: 100%;}
+	.bt-clientinfo li{
+		width: 100%;
+		padding: 0 0 15px;
+	}
+	.bt-clientinfo li + li,
+	.bt-portfoliovtwo .bt-clientinfo li + li{padding: 0;}
+	.bt-postnav li h3 {
+		font-size: 15px;
+		line-height: 15px;
+	}
+	.bt-postnav li {
+		width: 100%;
+		padding: 10px 0;
+		text-align: center;
+	}
+	.bt-postnav li + li{text-align: center;}
+	body.bt-homevtwo .bt-header,
+	.bt-homevtwo .bt-main,
+	.bt-footerborder {border-width: 10px;}
+	.bt-postdetail blockquote {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.bt-portfoliovone .bt-featuredimg > img{
+		width: auto;
+		height: 400px;
+		max-width: none;
+	}
+	.bt-photogalleryfull .bt-album figure img{height: 200px;}
+	body.bt-showheader.bt-homevseven .bt-wrapper {padding: 0;}
+}
+@media (max-width:479px){
+	.bt-shareandlikes {
+		width: 100%;
+		padding: 0 0 30px;
+	}
+	.bt-categorypost .bt-btn{width: 100%;}
+	.bt-photogallery.bt-mixwidth .bt-album{width: 100% !important;}
+}
+@media (max-width:360px){}
+@media (max-width:320px){}
